@@ -1,0 +1,1339 @@
+[
+  {
+    "countries": [
+      "Slovakia"
+    ],
+    "company": "A-BASE, s.r.o.",
+    "email": "licensing@a-base.sk",
+    "url": "https://www.a-base.sk/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Singapore",
+      "Indonesia",
+      "Philippines"
+    ],
+    "company": "ACP Computer Training School Pte Ltd",
+    "email": "kum_seng@acpcomputer.edu.sg",
+    "url": "http://www.acpcomputer.com/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "ADMELINA Ltd.",
+    "email": "sales@admelina.com ",
+    "url": "http://www.admelina.com/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Taiwan"
+    ],
+    "company": "AHA Computer Co., Ltd. 知之藏_迪凱科技",
+    "email": "presales@ahasoft.com.tw",
+    "url": "http://www.ahasoft.com.tw",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "company": "ASM Technologies",
+    "email": "info@asmtech.com",
+    "url": "http://www.asmtech.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Norway"
+    ],
+    "company": "Alfasoft AS",
+    "email": "info@alfasoft.no",
+    "url": "http://www.alfasoft.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "company": "Alfasoft AS",
+    "email": "info@alfasoft.se",
+    "url": "http://www.alfasoft.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "Amrut Software Pvt. Ltd.",
+    "email": "sales@amrutsoftware.com",
+    "url": "http://www.amrutsoftware.com",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "AnyWare E-Commerce LTD.",
+    "email": "sales@anyware.co.il",
+    "url": "http://www.anyware.co.il/",
+    "international": true,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "company": "AnyWare E-Commerce Software SRL",
+    "email": "support@anyware.co.il",
+    "url": "http://www.anyware.com.ro/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Bulgaria"
+    ],
+    "company": "Anysoft.pl",
+    "email": "w.rydzikowski@anysoft.pl",
+    "url": "http://www.anysoft.pl/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Latvia"
+    ],
+    "company": "Anysoft.pl Rejestracja Oprogramowania",
+    "email": "w.rydzikowski@anysoft.pl",
+    "url": "http://www.anysoft.pl/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Poland"
+    ],
+    "company": "Anysoft.pl Rejestracja Oprogramowania",
+    "email": "w.rydzikowski@anysoft.pl",
+    "url": "http://www.anysoft.pl",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Australia"
+    ],
+    "company": "Aquion Pty Ltd",
+    "email": "sales@aquion.com.au",
+    "url": "http://www.aquion.com.au",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "company": "Avieto Mexico SA de CV",
+    "email": "egonzalez@comprasoft.com",
+    "url": "https://comprasoft.com/jetbrains",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Ukraine"
+    ],
+    "company": "Axoft LLC",
+    "email": "axoft@axoft.ua",
+    "url": "http://axoft.ua/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "Aztek",
+    "email": "sales@aztek.co.il",
+    "url": "http://aztek.co.il/Hebrew",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Honduras",
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua",
+      "Costa-Rica",
+      "Panama"
+    ],
+    "company": "BI-DSS Technology",
+    "email": "mauricio.carias@bi-dss.com",
+    "url": "https://www.bi-dss.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Germany"
+    ],
+    "company": "Bechtle Direct GmbH",
+    "email": "software.direct-de@bechtle.com",
+    "url": "https://shop.bechtle.de/de",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Argentina"
+    ],
+    "company": "Besysoft",
+    "email": "pablo.serra@besysoft.com",
+    "url": "http://www.besysoft.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Germany"
+    ],
+    "company": "CCP Software GmbH",
+    "email": "sales@ccpsoft.de",
+    "url": "http://www.ccpsoft.de/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "CEM.. CAMPOS E MENEZES LTDA",
+    "email": "contato@camposemenezes.com",
+    "url": "http://www.camposemenezes.com/governo",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Poland"
+    ],
+    "company": "CONNECT DISTRIBUTION Sp. z o. o.",
+    "email": "sales@connectdistribution.pl",
+    "url": "http://www.connectdistribution.pl/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Czech Republic"
+    ],
+    "company": "CS Development, s.r.o",
+    "url": "",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Russia"
+    ],
+    "company": "CSJC Softline Trade",
+    "email": "info@softline.ru",
+    "url": "https://store.softline.ru/jetbrains/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Netherlands"
+    ],
+    "company": "Climb Channel Solutions",
+    "email": "sales@ClimbCS.eu",
+    "url": "https://www.climbcs.eu/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "Climb Channel Solutions",
+    "email": "sales@ClimbCS.com  ",
+    "url": "https://www.climbcs.com/",
+    "international": false,
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "CodeOps Technologies LLP",
+    "email": "reachus@codeops.tech",
+    "url": "http://codeops.tech/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "China"
+    ],
+    "company": "Com&Lan Tech. Corp. Ltd 昆仑联通 (北京，上海，深圳)",
+    "email": "hu.hh@comlan.com",
+    "url": "http://www.comlan.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United Kingdom",
+      "Austria",
+      "Switzerland",
+      "Luxembourg",
+      "Spain",
+      "Portugal",
+      "France",
+      "Italy",
+      "Norway",
+      "United States"
+    ],
+    "company": "ComponentSource",
+    "email": "sales@componentsource.com",
+    "url": "http://componentsource.com",
+    "international": true,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Japan"
+    ],
+    "company": "ComponentSource",
+    "email": "sales@componentsource.co.jp",
+    "url": "https://www.componentsource.co.jp/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Uruguay"
+    ],
+    "company": "Composystem",
+    "email": "fmartinez@composystem.com.uy",
+    "url": "http://www.composystem.uy",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Austria",
+      "Switzerland",
+      "France",
+      "Germany"
+    ],
+    "company": "Compuwave",
+    "email": "karin.halbritter@compuwave.de",
+    "url": "http://www.compuwave.de",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "company": "Crayon AB",
+    "email": "licens@crayon.se",
+    "url": "http://www.crayon.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "company": "DENDRIO SOLUTIONS",
+    "email": "ruxandra.minciunescu@bittnet.ro",
+    "url": "http://www.dendrio.com/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Italy",
+      "Portugal",
+      "Spain"
+    ],
+    "company": "Danysoft Internacional, S.L",
+    "email": "orders@danysoft.com",
+    "url": "http://www.danysoft.com/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "company": "Delta IT Distribution",
+    "email": "info@delta-vad.com",
+    "url": "http://delta-vad.com/company/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "DevTools",
+    "email": "sales@devtools.in",
+    "url": "http://devtools.in",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "Duoware Softwares Ltda",
+    "email": "contato@duoware.com.br",
+    "url": "https://duoware.com.br/jetbrains/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Turkey"
+    ],
+    "company": "ELMER Ltd. Sti.",
+    "email": "sales@elmer.com.tr",
+    "url": "http://elmer.com.tr",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "China"
+    ],
+    "company": "Eden Information Service Ltd. 深圳伊登软件",
+    "email": "cheny@edensoft.com.cn",
+    "url": "http://www.edensoft.com.cn",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "company": "Edument AB",
+    "email": "Wiveka.thott@edument.se",
+    "url": "https://www.edument.se/en",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Chile"
+    ],
+    "company": "Empower Agile",
+    "email": "danijel.arsenovski@empoweragile.com",
+    "url": "http://www.empoweragile.com/en/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "Engineering Software lab, ltd",
+    "email": "info@eswlab.com",
+    "url": "http://www.eswlab.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Singapore"
+    ],
+    "company": "Eztech Services Pte Ltd",
+    "email": "enquiry@eztech.com.sg",
+    "url": "http://www.eztech.com.sg/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "GTM Catalyst Private Limited",
+    "email": "sales@gtmcatalyst.com",
+    "url": "http://www.gtmcatalyst.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Ireland"
+    ],
+    "company": "Grey Matter (EMEA) Ltd",
+    "email": "info@greymatter.ie",
+    "url": "http://www.greymatter.ie",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United Kingdom"
+    ],
+    "company": "Grey Matter Ltd",
+    "email": "lisaf@greymatter.com",
+    "url": "http://www.greymatter.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "company": "Grupo CAPITEC, S.A. de C.V.",
+    "email": "capitec@grupocapitec.com",
+    "url": "http://www.grupocapitec.com",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Colombia"
+    ],
+    "company": "Grupo Empresarial Crear de Colombia",
+    "email": "gerencia@creardecolombia.com.co",
+    "url": "http://creardecolombia.com.co/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Indonesia"
+    ],
+    "company": "IT Group",
+    "email": "steffi.ampharo@itgroupinc.asia",
+    "url": "https://www.itgroupinc.asia/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "Insight",
+    "email": "ron.teitlebaum@insight.com",
+    "url": "https://www.insight.com/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Bolivia"
+    ],
+    "company": "Intersoft S.A.",
+    "email": "julio.ortiz@intersoft.com.bo",
+    "url": "http://www.intersoft.com.bo",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Peru"
+    ],
+    "company": "JoeDayz",
+    "email": "informes@joedayz.pe",
+    "url": "http://joedayz.pe/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Sweden"
+    ],
+    "company": "K3 Nordic AB",
+    "email": "marcus.lundgren@k3nordic.com",
+    "url": "http://k3nordic.com",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Hungary"
+    ],
+    "company": "Ker-Soft Kft.",
+    "email": "support@kersoft.hu",
+    "url": "http://www.kersoft.hu",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "L3 Software",
+    "email": "fernando.rocha@l3software.com.br",
+    "url": "http://l3software.com.br/site/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "LANTYX - Licenciamento de Software e Soluções em TI",
+    "email": "contato@lantyx.com",
+    "url": "http://www.lantyx.com",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Hong Kong"
+    ],
+    "company": "LOGON International Limited",
+    "email": "sales@logon-int.com",
+    "url": "https://www.logon-int.com/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Taiwan"
+    ],
+    "company": "Linksoft Inc 友環公司",
+    "email": "info@linksoft.com.tw",
+    "url": "http://www.linksoft.com.tw/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Malaysia"
+    ],
+    "company": "LogonSoftware Asia Sdn Bhd",
+    "email": "nancy@logon-int.com",
+    "url": "",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "LogonSoftware India Pvt Ltd",
+    "email": "sales@logon-int.com",
+    "url": "http://www.logon-int.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Poland"
+    ],
+    "company": "MS-G S.C.",
+    "email": "sswieszczak@msg.waw.pl",
+    "url": "https://soft.ware.pl/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Australia"
+    ],
+    "company": "MicroWay Pty Ltd",
+    "email": "sales@microway.com.au",
+    "url": "http://www.microway.com.au",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Ireland"
+    ],
+    "company": "Micromail Ltd",
+    "email": "diarmuid@micromail.ie",
+    "url": "http://www.micromail.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Finland"
+    ],
+    "company": "Moonsoft Oy",
+    "email": "juha.piispa@moonsoft.fi",
+    "url": "http://moonsoft.fi",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Indonesia"
+    ],
+    "company": "Myria Technologies",
+    "email": "adityapurwa@myriatechnologies.com",
+    "url": "http://www.myriatechnologies.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Singapore"
+    ],
+    "company": "Nanyang Tech Pte Ltd",
+    "email": "Shawn@nanyangtechnology.com",
+    "url": "mailto:Shawn@nanyangtechnology.com",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "OSB Software",
+    "email": "vendas@osbs.com.br",
+    "url": "https://www.osbsoftware.com.br/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "PCM",
+    "url": "http://www.pcm.com/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "Preflex Solutions Pvt ltd",
+    "email": "sales@preflexsol.com",
+    "url": "http://www.preflexsol.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "France"
+    ],
+    "company": "QBS Software",
+    "email": "commerciale@qbssoftware.fr",
+    "url": "http://www.qbsdistribution.fr/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "United Kingdom"
+    ],
+    "company": "QBS Software Ltd.",
+    "email": "sales@qbssoftware.com",
+    "url": "http://qbssoftware.com/",
+    "international": true,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "Singapore"
+    ],
+    "company": "Qast Singapore Pte Ltd",
+    "email": "sg@qast.com",
+    "url": "http://www.qast.com.sg/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "company": "Qast Systems Solutions Inc. 上海软众",
+    "email": "info@qast.com",
+    "url": "http://www.qast.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "company": "RADIENT CONSULTING SRL",
+    "email": "office@radient.ro",
+    "url": "http://www.radient.ro/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "company": "RAPID PARCEL DELIVERY SRL",
+    "email": "sales@e-rpd.ro",
+    "url": "http://e-rpd.ro/en/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "Rabita Software",
+    "email": "sales@rabitasoft.com",
+    "url": "http://www.rabitasoft.com/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Belgium"
+    ],
+    "company": "RealDolmen",
+    "email": "licensing@realdolmen.com",
+    "url": "https://www.realdolmen.com/en",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Romania"
+    ],
+    "company": "Romsym Data SRL",
+    "email": "florina.balint@romsym.ro",
+    "url": "https://www.romsym.ro/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Portugal"
+    ],
+    "company": "SECTOR ZERO S.A.",
+    "email": "rcarmo@sectorzero.pt",
+    "url": "http://www.sectorzero.pt/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "SHI",
+    "email": "SoftwarePartners@shi.com",
+    "url": "https://www.shi.com/",
+    "international": true,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United Kingdom"
+    ],
+    "company": "SHI International Corp.",
+    "email": "Darren.Brodrick@shi.com",
+    "url": "http://www.shi.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Latvia"
+    ],
+    "company": "SIA DPA",
+    "email": "squalio@squalio.com  ",
+    "url": "http://squalio.com/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Austria",
+      "Germany",
+      "Switzerland"
+    ],
+    "company": "SOS Software Service",
+    "email": "info@sos-software.com",
+    "url": "https://sos-software.com/produkte/jetbrains/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Croatia",
+      "Slovenia",
+      "Serbia"
+    ],
+    "company": "SV GROUP d.o.o.",
+    "email": "svg-prodaja@svgroup.hr",
+    "url": "http://www.svgroup.hr/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Czech Republic"
+    ],
+    "company": "SW.CZ",
+    "email": "info@sw.cz",
+    "url": "http://www.sw.centrum.cz/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Germany"
+    ],
+    "company": "SWNetwork GmbH",
+    "email": "sales@swnetwork.eu",
+    "url": "http://www.swnetwork.de/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "SYNNEX",
+    "email": "jetbrains@synnex.com",
+    "url": "https://www.synnexcorp.com/",
+    "international": false,
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "Russia"
+    ],
+    "company": "SYSSOFT",
+    "email": "sm@syssoft.ru",
+    "url": "http://www.syssoft.ru",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Japan"
+    ],
+    "company": "Samuraism",
+    "email": "jetbrains@samuraism.com",
+    "url": "http://samuraism.com/products/jetbrains",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "New Zealand"
+    ],
+    "company": "Soft Solutions",
+    "email": "sales@sofsol.co.nz",
+    "url": "http://www.softsinc.com",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Hungary"
+    ],
+    "company": "SoftOne Ltd.",
+    "email": "softone@softone.hu",
+    "url": "http://softone.hu",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Azerbaijan",
+      "Armenia",
+      "Georgia",
+      "Moldova",
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "company": "Softline Company",
+    "email": "sales@softline.ru",
+    "url": "https://store.softline.ru/jetbrains/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Belarus"
+    ],
+    "company": "Softline Company",
+    "email": "info@softline.ru",
+    "url": "http://www.softline.by/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Kazakhstan"
+    ],
+    "company": "Softline Company",
+    "email": "info@softline.ru",
+    "url": "http://www.softline.kz/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "company": "Softline Company",
+    "email": "info@softline.kg",
+    "url": "https://softline.kg/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Ukraine"
+    ],
+    "company": "Softlist LLC",
+    "email": "a.pendrak@softlist.com.ua",
+    "url": "http://www.softlist.ua/",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Finland"
+    ],
+    "company": "Software Explosion Oy",
+    "email": "ari.vaananen@ohjelmistot.com",
+    "url": "http://www.ohjelmistot.com",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "Software Sources Ltd.",
+    "email": "haim.ron@software-sources.co.il",
+    "url": "http://www.software-sources.co.il/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "India"
+    ],
+    "company": "Software Sources Ltd.",
+    "email": "info@software-sources.in",
+    "url": "http://www.software-sources.in",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "SoftwareONE",
+    "email": "sales@softwareone.com",
+    "url": "https://www.softwareone.com/en-us/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Switzerland"
+    ],
+    "company": "SoftwareOne AG",
+    "email": "info.ch@softwareone.com",
+    "url": "http://www.softwareone.com",
+    "international": true,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Austria",
+      "Belgium",
+      "France",
+      "Germany",
+      "Luxembourg",
+      "Norway",
+      "Netherlands",
+      "Switzerland"
+    ],
+    "company": "SparkDynamic GmbH",
+    "email": "sales@sparkdynamic.com",
+    "url": "http://www.sparkdynamic.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "China"
+    ],
+    "company": "Suzhou DIGITALYCHEE Technology Co., Ltd 数码荔枝",
+    "email": "hi@lizhi.io",
+    "url": "https://store.lizhi.io/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Russia"
+    ],
+    "company": "Systems 21",
+    "email": "nat@prodmag.ru",
+    "url": "http://www.prodmag.ru",
+    "international": false,
+    "resellerLevel": "SILVER",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "South Africa"
+    ],
+    "company": "TITUS CORPORATION (PTY) LTD",
+    "email": "diane.liebenberg@tituscorp.co.za",
+    "url": "http://www.tituscorp.co.za",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Vietnam"
+    ],
+    "company": "TSG Service and Trading Company Limited VN",
+    "email": "https://www.tsg.net.vn/vi/contact-us/",
+    "url": "https://www.tsg.net.vn/vi/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Estonia",
+      "Latvia",
+      "Lithuania"
+    ],
+    "company": "TVG",
+    "email": "roman@tvg.ee",
+    "url": "https://cloud.tvg.ee/ee_en/development-tools/jetbrains",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Singapore",
+      "Malaysia",
+      "Indonesia",
+      "Thailand",
+      "Philippines",
+      "Vietnam",
+      "Myanmar",
+      "Brunei",
+      "Laos",
+      "Cambodia"
+    ],
+    "company": "Tangunsoft Co, Ltd",
+    "email": "jetbrains@tangunsoft.com",
+    "url": "https://jetbrains.tangunsoft.com/",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "South Korea"
+    ],
+    "company": "Tangunsoft Co., Ltd.",
+    "email": "sales@tangunsoft.com",
+    "url": "http://www.tangunsoft.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "Brazil"
+    ],
+    "company": "Targetware",
+    "email": "keyt@software.com.br",
+    "url": "http://www.software.com.br/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Mexico"
+    ],
+    "company": "Targetware",
+    "email": "ericam@software.com.br",
+    "url": "https://software.com.mx/",
+    "international": false,
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Hungary"
+    ],
+    "company": "Trans-Europe Ltd.",
+    "email": "info@trans-europe.hu",
+    "url": "http://szoftver.hu",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Vietnam"
+    ],
+    "company": "VIHOTH CORPORATION",
+    "email": "info@vihoth.com",
+    "url": "https://vihoth.com/p/phan-mem-van-phong/jetbrains",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "company": "Wayside Technology Group",
+    "email": "Shawn.Giordano@techxtend.com",
+    "url": "http://waysidetechnology.com/",
+    "international": false,
+    "resellerType": "DISTRIBUTOR"
+  },
+  {
+    "countries": [
+      "Belgium"
+    ],
+    "company": "Xplore Group",
+    "email": "info@xploregroup.be",
+    "url": "http://www.xploregroup.be/",
+    "international": false,
+    "resellerLevel": "GOLD",
+    "resellerType": "RESELLER"
+  },
+  {
+    "countries": [
+      "Israel"
+    ],
+    "company": "eBusiness Design",
+    "email": "info@ebusiness-design.com",
+    "url": "http://www.ebusiness-design.com",
+    "international": false,
+    "resellerLevel": "PLATINUM",
+    "resellerType": "RESELLER"
+  }
+]
